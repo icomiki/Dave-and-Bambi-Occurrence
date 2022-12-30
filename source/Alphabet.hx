@@ -11,7 +11,7 @@ import flixel.system.FlxSound;
 using StringTools;
 
 /**
- * Loosley based on FlxTypeText lolol
+ * Loosley based on FlxTypeText lolol i'm so screwed
  */
 class Alphabet extends FlxSpriteGroup
 {
